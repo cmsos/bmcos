@@ -1,4 +1,4 @@
 # BMCOS
-Benchmark dataset of crystalline organic semiconductors (BMCOS)
+Benchmark Dataset of Crystalline Organic Semiconductors (BMCOS)
 
-See https://zhugayevych.github.io/BMCOS/index.html
+See https://cmsos.github.io/bmcos/index.html
